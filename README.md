@@ -12,12 +12,14 @@ This program automatically generates "Choose One" style videos commonly seen on 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Pr0teL/ChooseOne.git
-2. Install dependencies
-3. Set your API keys
-4. Run the video generation script:
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+4. Set your API keys
+5. Run the video generation script:
    ```bash
    python main.py
-5. The finished video will be saved in the root folder.
+6. The finished video will be saved in the root folder.
 
 ## License
 This project is licensed under the MIT License.
